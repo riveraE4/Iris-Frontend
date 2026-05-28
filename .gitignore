@@ -5,3 +5,8 @@
 # React Router
 /.react-router/
 /build/
+.env.local
+.DS_Store
+node_modules/
+.DS_Store
+.env.local
